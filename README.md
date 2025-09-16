@@ -1,5 +1,3 @@
-# splunk-security-projects
-plunk Security Analysis Projects – Hands-on SOC use cases including brute-force detection, phishing investigation, error monitoring, and user activity tracking. Includes search queries (SPL), documentation, and PDF reports with screenshots.”
 # Splunk Security Projects  
 
 This repository contains practical projects and exercises I completed while learning Splunk for Security Operations Center (SOC) analysis.  
